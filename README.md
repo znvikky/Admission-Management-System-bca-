@@ -5,4 +5,12 @@
 2. software password protected :-   contect me my email  id is  vikkydubey581@gmail.com and my  mobile number 9931771733
 
 
-*------------------------------------------------------zn  vikky  Liker---------------------------------------------------------------------------*
+# Requirements 
+
+1.  Windows 10 ( Not install java )
+2.  Windows 64bit only
+
+
+
+
+# *---------------------------zn  vikky  Liker--------------------------------------------*
